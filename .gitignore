@@ -71,6 +71,6 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # ignore data
-/spotify_kaggle
-.csv
-.sav
+*/spotify_kaggle
+*.csv
+*.sav
